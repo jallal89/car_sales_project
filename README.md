@@ -8,3 +8,8 @@ This is a real world dataset about cars sales in many different countries. The d
 ## Tools Used: 
 - Excel
 - SQL Server Management Studio (SSMS)
+##   Dataset Source: 
+- Cars sales from Kaggle
+- Link to dataset: https://www.kaggle.com/gagandeep16/car-sales
+-  CC0: Public Domain license: Meaning you can download it work on it since it is public domain
+-  Note: Please don't copy my work from this project, feel free to download dataset from the link and do your own work
