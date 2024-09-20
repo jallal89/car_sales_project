@@ -7,7 +7,7 @@ This is a real world dataset about cars sales in many different countries. The d
 - queries_results.pdf: A PDF file of how queries results look when clicked on "Run" for each query in SQL
 - car_sales_excel.xlsx: excel file of dataset and all visuals and dashboard
 - Note: when you open excel file, it shows as "Row data" and when you click on it, it downloads to your computer as excel file
-- Once you open it on your computer, it will likely asks if you trust this file, the reason is because it is a public domain excel file on kaggle that many people use, but you can edit it, write in it, save your own version as you like
+- Once you open it on your computer, it will likely asks if you trust this file, the reason is because it is a public domain excel file on kaggle that many people use, but you can edit it, write in it, save your own version as you like, or, you can see dataset link in "Dataset Source" below and check it on Kaggle and download it from there if you prefer
 ## Languages Used: 
 - SQL
 
