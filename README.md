@@ -21,7 +21,7 @@ This is a real world dataset about cars sales in many different countries. The d
 - Toyota and Honda had the best retention value among all cars, with average %75 - %80 retention value
 - Carrera Cabrio (Porsche cars) had best resale value among all models, with $67,550 and retention value of %90
 - Dodge and Chevrolet among cars with largest engine size, with Dodge (Viper models) as high as 8 L or CC
-- There is a variation in vehicle type when it comes to units sold, with cars and passengers both recording hights and lows sales 
+- Vehicle types vary when it comes to units sold, with cars and passengers both recording hights and lows sales 
 - Toyota and Honda record best fuel efficiency marks, with Dodge, Lexus and Ford on the other side
 - Models such as Ram Van, Navigator and Escalade among the best when it comes to fuel capacity
 - Toyota and Nissan among highest manufacturers in regard to numbers of models offering cars for sale 
