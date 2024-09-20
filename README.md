@@ -13,3 +13,15 @@ This is a real world dataset about cars sales in many different countries. The d
 - Link to dataset: https://www.kaggle.com/gagandeep16/car-sales
 -  CC0: Public Domain license: Meaning you can download it and work on it since it is public domain
 -  Note: Please don't copy my work from this project, feel free to download dataset from the link and do your own work
+
+## Project Key Findings and Analysis 
+- Mercedes-B among most expensive cars, with highest price among all cars, at $85,500
+- Porsche, Mercedes-B and BMW among most expensive, but most desirable cars at the same time
+- Ford models had the most units sold at 540561, with Toyota at second place at 247994
+- Toyota and Honda had the best retention value among all cars, with average %75 - %80 retention value
+- Carrera Cabrio (Porsche cars) had best Year resale value among all models, with $67,550 and retention value of %90
+- Dodge and Chevrolet among cars with largest engine size, with Dodge (Viper models) as high as 8 L or CC
+- There is a variation in vehicle type when it comes to units sold, with cars and passengers both recording hights and lows sales 
+- Toyota and Honda record best fuel efficiency marks, with Dodge, Lexus and Ford on the other side
+- Models such as Ram Van, Navigator and Escalade among the best when it comes to fuel capacity
+- Toyota and Nissan among highest manufacturers in regard to numbers of models offering cars for sale 
